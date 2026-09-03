@@ -8,7 +8,7 @@
   "cfg.kineticentityrese.entity.rules.tooltip": "§e打开可视化生物规则编辑器。主列表只显示模型，悬浮查看名称与规则；已配置生物自动置顶并使用绿色描边，左键直接编辑。格式错误或当前不存在的实体 ID 会在读取时自动清理。",
   "cfg.kineticentityrese.entity": "生物机制",
   "msg.kineticentityrese.entity_reset.broadcast": "§c警告: 玩家状态表现不佳! §6%s §e已重整旗鼓，恢复至全盛状态!",
-  "gui.kineticentityrese.module.name": "KineticEntityRese",
+  "gui.kineticentityrese.module.name": "动力逝不过三",
   "gui.kineticentityrese.module.function": "实体限制",
   "gui.kineticentityrese.module.tooltip": "管理玩家死亡后周围实体的状态重置与相关限制规则。",
   "gui.kineticentityrese.rule_list.title": "§6生物状态重置规则",
